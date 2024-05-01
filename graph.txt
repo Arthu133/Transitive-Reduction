@@ -1,0 +1,6 @@
+V A
+V B
+V C
+E A B
+E A C
+E B C
